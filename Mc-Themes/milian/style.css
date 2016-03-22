@@ -11,7 +11,7 @@ blockquote:before,blockquote:after,q:before,q:after{content:none;}
 strong,b{font-weight:bold;}
 em,i{font-style:italic;}
 table{border-collapse:collapse;border-spacing:0;}
-a{color:#333;text-decoration:none;transition:.2s;}
+a{color:#333;text-decoration:none;}
 a:hover{color:#27a;}
 img{border:0;max-width:100%;}
 .arrow{background:url(images/6597097254446695351.png) no-repeat;_background:url(images/6597097254446695352.png) no-repeat}
